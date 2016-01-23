@@ -1,0 +1,6 @@
+<resources>
+	<string name="app_name">DemoRuntimePermission</string>
+	<string name="action_settings">Settings</string>
+	<string name="title_activity_with_easy_permission">WithEasyPermissionActivity</string>
+	<string name="title_activity_without_easy_permission">WithoutEasyPermissionActivity</string>
+</resources>
